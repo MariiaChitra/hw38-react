@@ -17,7 +17,7 @@ homework.
 - Conditional rendering for minor students.
 - Display a message when the student list is empty.
 - Calculate the total number of students automatically.
-- Display the total number of students in the Footer.
+- Display the total number of students above the student list.
 
 ## Student Data
 
